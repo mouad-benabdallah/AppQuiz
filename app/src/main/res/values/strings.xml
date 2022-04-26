@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppQuiz</string>
+
+    <string name="text_view_bonjour">Bonjour! Veuillez saisir votre nom</string>
+    <string name="btn_commencer_quiz">Commencer Quiz</string>
+    <string name="edit_text">Merci de saisir votre nom</string>
+    <string name="btn_delete">delete</string>
+
+
+    <string name="Question_num">quesion_num</string>
+    <string name="question">question_text</string>
+    <string name="btn_reponse1">reponse1</string>
+    <string name="btn_reponse2">reponse2</string>
+    <string name="btn_reponse3">reponse3</string>
+    <string name="btn_reponse4">reponse4</string>
+</resources>
